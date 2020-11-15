@@ -12,19 +12,19 @@ body {
   width: 80%;
     max-width: 700px;
     margin: auto;
-    background: #fafafa;
+    background:#FADEC3;
     color: #333;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Palatino', serif;
 }
 
 /*---------------- TYPOGRAPHY ---------------*/
 
 h1, h2, h3 {
-    font-weight: normal;
-    color: rgb(120, 143, 4);
+    font-weight: bold;
+    color: rgb(24, 127, 158);
     text-align: center;
 }
-p {font-family: 'Open Sans', sans-serif;}
+p {font-family: 'Helvetica', sans-serif;}
 
 p, blockquote {
     margin-bottom: 1.5em;
@@ -95,8 +95,8 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #8F0040;
-    padding: .5em 0;
+    background-color: #187F9E;
+    padding: 1em 0;
     font-size: 0.75em;
     box-shadow: 0 0 10px 0 black;
 }
@@ -124,7 +124,7 @@ nav a:visited {
 nav a:hover {
     border-bottom: none;
     color: chocolate;
-
+    transition: all 0.3s ease-in-out;
 }
 
 .baskerville {
