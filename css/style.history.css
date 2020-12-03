@@ -43,10 +43,10 @@ h3 {font-size: 1.414em;
 margin-bottom: 1.5em;}
 
 blockquote {
-   font-size: 1.414em;
+   font-size: 1.14em;
    hanging-punctuation: first;
    text-indent: -0.44em;
-   color:  #8F0040;
+   color:  #12B5B0;
 }
 
 blockquote cite {
@@ -75,16 +75,16 @@ ul li {
     font-weight: bold;
     text-transform: uppercase;}
 
-    .red {background: orangered}
+    .red {background: #12B5B0}
 
 /*--------------------- STYLING LINKS -----------------*/
 a {
-    color: #8F0040;
+    color: #187E9E;
     text-decoration: none;
 }
 
 a:hover {
-    color: chocolate;
+    color: #12B5B0;
     border-bottom: 1px dotted;
 }
 
@@ -122,9 +122,9 @@ nav a:visited {
 }
 
 nav a:hover {
-    border-bottom: none;
-    color: chocolate;
-    transition: all 0.3s ease-in-out;
+    border-bottom: 1px dotted;
+    color: #12b5b0;
+    transition: all 0.5s ease-in-out;
 }
 
 .baskerville {
