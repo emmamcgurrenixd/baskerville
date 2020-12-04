@@ -1,6 +1,6 @@
 John Baskerville
 =============
-[Version 1](https://github.com/emmamcgurrenixd/baskerville/blob/gh-pages/baskerville_one.html)
+[Version 1](https://emmamcgurrenixd.github.io/baskerville/baskerville-one.html)
 
 *02 November 2020*
 
@@ -38,4 +38,9 @@ Marking up some plain text with HTML5.
 
 *14 November 2020*
 Adding CSS styling, nav and links to second version.
+
+[Version 3]()
+Added Google fonts.
+[Version 4]()
+Added a table and images
 
