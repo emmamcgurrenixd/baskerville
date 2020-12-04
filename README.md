@@ -24,7 +24,9 @@ Adding my first proper web page marking up some plain text with HTML5. Made a lo
 
 Added table and images
 
+[CSS Exercise](https://emmamcgurrenixd.github.io/baskerville/css_exercise.html)
 
+Completed to devlelop skills on CSS.
 
 History of Type
 ================

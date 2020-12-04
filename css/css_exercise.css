@@ -1,0 +1,106 @@
+/* ----- SETTING UP WIDTH FOR PLEASURABLE READING EXPERIENCE -----*/
+ 
+ body{
+            max-width: 700px;
+            margin: auto;
+            padding: 0 30px;
+            
+            }
+      
+/*----- USING 1:5 SCALE -----*/ 
+      
+        h1, h2, h3, blockquote, .dropcap {color: rgb(0, 177, 160)}    
+
+        h1, h2, h3 {
+            margin: 0; 
+            font-weight: normal;
+            }
+        
+        p {line-height:   1.6em; }
+        
+        h1 {font-size: 5.063em;}
+        
+        h2 {
+            font-family: 'Libre Baskerville', serif;
+            font-style: italic;
+            font-size: 2.25em;
+            padding-bottom: 30px;
+            margin: -.5em 0 0 .5em}
+        
+        h3 {font-size: 1.25em;
+            text-transform: uppercase;} 
+        
+        blockquote {
+            margin: 0; 
+            font-weight: normal;
+            font-size: 1.5em;
+            font-style: italic;
+            padding: 1.5em 0 0 0;}
+        
+        blockquote {
+            hanging-punctuation: first;
+            text-indent: -0.43em; /* Change according to your font */
+            }
+        
+       blockquote cite { color: #999; font-size: 0.667em; }
+     
+        .intro {font-size: 1.25em; }
+        
+        .dropcap {
+		  float: left;
+		  font-size: 4.7em;
+		  line-height: 0.5em;
+          margin-right: 0px;}
+          
+/*-------- VERSION 1 STYLING --------*/     
+
+        .version1 {
+            padding-top: 50px;
+            font-family: 'Libre Baskerville', serif;}
+        
+        .version1 .intro {padding-bottom: 1em; }
+
+        .version1 blockquote {line-height: 1.4}
+
+        .version1 h2 {font-family: 'Libre Baskerville', serif;}
+
+/*-------- VERSION 2 STYLING --------*/
+       
+    .version2 {font-family: 'Open Sans', sans-serif;} 
+
+        
+    .introcaps {
+        text-transform: uppercase;}
+        
+    .version2 cite {
+        font-style: normal;
+        text-transform: uppercase;}
+        
+    .version2 p+p {margin-bottom: -1em;}
+  
+    .version2 p+p+p {
+        text-indent:1.5em;
+                        }
+
+/*-------- VERSION 3 STYLING --------*/
+  
+   .version3 {font-family: 'Open Sans', sans-serif;}
+      
+   .version3 h1, h2, h3, blockquote {font-family: 'IBM Plex Serif', serif;} 
+
+
+   /*.version2 h2  {font-family: 'Open Sans', sans-serif;}
+   section blockquote {font-family: 'Libre Baskerville', serif;}
+   .version2 h3 {font-family: 'Open Sans', sans-serif;}
+   
+  
+
+      hr {
+        margin: 100px 0;
+        height: 1px;    
+        background-color:rgb(13, 121, 110);
+        color:rgb(13, 121, 110);
+        border: 0 none;
+        }
+        
+        .version2 blockquote {font-family: 'Open Sans', sans-serif;}
