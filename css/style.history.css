@@ -159,14 +159,14 @@ th {
     text-transform: uppercase;
     font-weight: normal;
     text-align: left;
-    background: rgb(120, 143, 4);
+    background: #12B5B0;
 }
 
 th, td {
     padding: .6em }
 
 table, td   {
-    background: rgb(212, 222, 164);
+    background: #ADDED8;
     border: 1px solid #fafafa
 }
 

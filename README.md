@@ -1,12 +1,14 @@
 John Baskerville
 =============
-[Version 1](file:///Users/emmamcgurren/Documents/baskerville/baskerville_one.html)
+[Version 1](https://github.com/emmamcgurrenixd/baskerville/blob/gh-pages/baskerville_one.html)
 *02 November 2020*
 Adding my first proper web page making up some plain text with HTML5.
 
 [Version 2](file:///Users/emmamcgurren/Documents/baskerville/baskerville_two.html)
 *09 November 2020*
 Adding new Baskerville file and applied my first CSS styling.
+
+[Version 3]
 
 
 
@@ -20,3 +22,4 @@ Marking up some plain text with HTML5.
 [Version 2](file:///Users/emmamcgurren/Documents/baskerville/history_two.html)
 *14 November 2020*
 Adding CSS styling, nav and links to second version.
+
