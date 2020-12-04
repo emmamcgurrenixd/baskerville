@@ -31,16 +31,25 @@ History of Type
 [Version 1](https://emmamcgurrenixd.github.io/baskerville/history_one.html)
 
 *12 November 2020*
+
 Marking up some plain text with HTML5.
 
 
-[Version 2](file:///Users/emmamcgurren/Documents/baskerville/history_two.html)
+[Version 2](https://emmamcgurrenixd.github.io/baskerville/history_two.html)
 
 *14 November 2020*
+
 Adding CSS styling, nav and links to second version.
 
-[Version 3]()
+[Version 3](https://emmamcgurrenixd.github.io/baskerville/history_three.html)
+
+*19 November 2020*
+
 Added Google fonts.
-[Version 4]()
+
+[Version 4](https://emmamcgurrenixd.github.io/baskerville/history_four.html)
+
+*24 Novemeber 2020*
+
 Added a table and images
 
