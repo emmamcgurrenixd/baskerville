@@ -18,7 +18,7 @@ Adding new Baskerville file and applied my first CSS styling.
 
 Adding my first proper web page marking up some plain text with HTML5.
 
-[Version 4](https://github.com/emmamcgurrenixd/baskerville/blob/gh-pages/baskerville_four.html)
+[Version 4](file:///Users/emmamcgurren/Documents/baskerville/baskerville_four.html)
 
 *23 November 2020*
 
