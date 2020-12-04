@@ -10,6 +10,9 @@ Adding new Baskerville file and applied my first CSS styling.
 
 [Version 3]
 
+[Version 4](file:///Users/emmamcgurren/Documents/baskerville/baskerville_four.html)
+
+
 
 
 History of Type
