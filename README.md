@@ -16,7 +16,7 @@ Adding new Baskerville file and applied my first CSS styling.
 
 *16 November 2020*
 
-Adding my first proper web page marking up some plain text with HTML5.
+Adding my first proper web page marking up some plain text with HTML5. Made a lot of styling changes, including colour scheme and images.
 
 [Version 4](https://emmamcgurrenixd.github.io/baskerville/baskerville_four.html)
 
@@ -28,7 +28,7 @@ Added table and images
 
 History of Type
 ================
-[Version 1](file:///Users/emmamcgurren/Dropbox/My%20Mac%20(Emma%E2%80%99s%20MacBook%20Air)/Downloads/john-baskerville-gh-pages/thehistoryoftype.html)
+[Version 1](https://emmamcgurrenixd.github.io/baskerville/history_one.html)
 
 *12 November 2020*
 Marking up some plain text with HTML5.
