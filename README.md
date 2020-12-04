@@ -6,19 +6,19 @@ John Baskerville
 
 Adding my first proper web page making up some plain text with HTML5.
 
-[Version 2](https://github.com/emmamcgurrenixd/baskerville/blob/gh-pages/baskerville_two.html)
+[Version 2](https://emmamcgurrenixd.github.io/baskerville/baskerville_two.html)
 
 *09 November 2020*
 
 Adding new Baskerville file and applied my first CSS styling.
 
-[Version 3](https://github.com/emmamcgurrenixd/baskerville/blob/gh-pages/baskerville_three.html)
+[Version 3](https://emmamcgurrenixd.github.io/baskerville/baskerville_three.html)
 
 *16 November 2020*
 
 Adding my first proper web page marking up some plain text with HTML5.
 
-[Version 4](file:///Users/emmamcgurren/Documents/baskerville/baskerville_four.html)
+[Version 4](https://emmamcgurrenixd.github.io/baskerville/baskerville_four.html)
 
 *23 November 2020*
 
