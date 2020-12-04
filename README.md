@@ -1,6 +1,6 @@
 John Baskerville
 =============
-[Version 1](https://emmamcgurrenixd.github.io/baskerville/baskerville-one.html)
+[Version 1](https://emmamcgurrenixd.github.io/baskerville/baskerville_one.html)
 
 *02 November 2020*
 
